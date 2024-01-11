@@ -2,7 +2,14 @@ const { initializeApp } = require ("firebase/app");
 const { getAuth } = require("firebase/auth");
 
 const firebaseConfig = {
- --
+ apiKey: "--",
+ authDomain: "--",
+ databaseURL: "--",
+ projectId: "--",
+ storageBucket: "-",
+ messagingSenderId: "--",
+ appId: "--",
+ measurementId: "--"
 };
 
 

@@ -3,10 +3,10 @@
 #include <addons/RTDBHelper.h>   
 #include "DHT.h"
 
-#define WIFI_SSID "JANGEJ_0188"    
-#define WIFI_PASSWORD "01250125" 
-#define DATABASE_URL "https://smartroom-cf86c-default-rtdb.asia-southeast1.firebasedatabase.app/" // RTDB의 URL
-#define DATABASE_SECRET "RUeJ1XxtQj3m4DUDMYePD9fmUivS6vEPnhQ9Nq8k"    // RTDB의 비밀번호
+#define WIFI_SSID "--wifi-name"    
+#define WIFI_PASSWORD "--wifi-password" 
+#define DATABASE_URL "" // RTDB의 URL
+#define DATABASE_SECRET ""    // RTDB의 비밀번호
 
 #define BRIGHT_PIN A0
 #define DHT_PIN D7

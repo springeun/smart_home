@@ -2,8 +2,8 @@
 #include <Firebase_ESP_Client.h> 
 #include <addons/RTDBHelper.h>    
 
-#define WIFI_SSID "3F_es_room1"    
-#define WIFI_PASSWORD "0424719222" 
+#define WIFI_SSID "--wifi-name"    
+#define WIFI_PASSWORD "--your wifi password" 
 #define DATABASE_URL "" // RTDB의 URL
 #define DATABASE_SECRET ""    // RTDB의 비밀번호
 
